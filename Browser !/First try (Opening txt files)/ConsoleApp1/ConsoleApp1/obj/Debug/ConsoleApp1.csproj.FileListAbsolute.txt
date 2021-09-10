@@ -11,3 +11,16 @@ E:\Programming\C#\Visual Studio\Projs\Browser !\First try (Opening txt files)\Co
 E:\Programming\C#\Visual Studio\Projs\Browser !\First try (Opening txt files)\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.application
 E:\Programming\C#\Visual Studio\Projs\Browser !\First try (Opening txt files)\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.Form1.resources
 E:\Programming\C#\Visual Studio\Projs\Browser !\First try (Opening txt files)\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.GenerateResource.cache
+E:\Programming\GitHub\Browser\Browser !\First try (Opening txt files)\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\Programming\GitHub\Browser\Browser !\First try (Opening txt files)\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.manifest
+E:\Programming\GitHub\Browser\Browser !\First try (Opening txt files)\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.application
+E:\Programming\GitHub\Browser\Browser !\First try (Opening txt files)\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\Programming\GitHub\Browser\Browser !\First try (Opening txt files)\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\Programming\GitHub\Browser\Browser !\First try (Opening txt files)\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+E:\Programming\GitHub\Browser\Browser !\First try (Opening txt files)\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.Form1.resources
+E:\Programming\GitHub\Browser\Browser !\First try (Opening txt files)\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.GenerateResource.cache
+E:\Programming\GitHub\Browser\Browser !\First try (Opening txt files)\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\Programming\GitHub\Browser\Browser !\First try (Opening txt files)\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe.manifest
+E:\Programming\GitHub\Browser\Browser !\First try (Opening txt files)\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.application
+E:\Programming\GitHub\Browser\Browser !\First try (Opening txt files)\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\Programming\GitHub\Browser\Browser !\First try (Opening txt files)\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
