@@ -1,0 +1,11 @@
+E:\Programming\C#\Visual Studio\Projs\Browser !\First try (Opening txt files)\ConsoleApp1\ConsoleApp1\bin\Release\ConsoleApp1.exe.config
+E:\Programming\C#\Visual Studio\Projs\Browser !\First try (Opening txt files)\ConsoleApp1\ConsoleApp1\bin\Release\ConsoleApp1.exe
+E:\Programming\C#\Visual Studio\Projs\Browser !\First try (Opening txt files)\ConsoleApp1\ConsoleApp1\bin\Release\ConsoleApp1.pdb
+E:\Programming\C#\Visual Studio\Projs\Browser !\First try (Opening txt files)\ConsoleApp1\ConsoleApp1\obj\Release\ConsoleApp1.csproj.AssemblyReference.cache
+E:\Programming\C#\Visual Studio\Projs\Browser !\First try (Opening txt files)\ConsoleApp1\ConsoleApp1\obj\Release\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\Programming\C#\Visual Studio\Projs\Browser !\First try (Opening txt files)\ConsoleApp1\ConsoleApp1\obj\Release\ConsoleApp1.exe
+E:\Programming\C#\Visual Studio\Projs\Browser !\First try (Opening txt files)\ConsoleApp1\ConsoleApp1\obj\Release\ConsoleApp1.pdb
+E:\Programming\C#\Visual Studio\Projs\Browser !\First try (Opening txt files)\ConsoleApp1\ConsoleApp1\bin\Release\ConsoleApp1.exe.manifest
+E:\Programming\C#\Visual Studio\Projs\Browser !\First try (Opening txt files)\ConsoleApp1\ConsoleApp1\bin\Release\ConsoleApp1.application
+E:\Programming\C#\Visual Studio\Projs\Browser !\First try (Opening txt files)\ConsoleApp1\ConsoleApp1\obj\Release\ConsoleApp1.exe.manifest
+E:\Programming\C#\Visual Studio\Projs\Browser !\First try (Opening txt files)\ConsoleApp1\ConsoleApp1\obj\Release\ConsoleApp1.application
