@@ -60,34 +60,35 @@ namespace ConsoleApp1
 
                 firstProc.WaitForExit();
                 Console.WriteLine(firstProc.ExitCode);
+                break;
 
-                Console.Write("\n\nLeave empty to continue, type '1' to end: ");
-                string loop = Console.ReadLine();
+                //Console.Write("\n\nLeave empty to continue, type '1' to end: ");
+                //string loop = Console.ReadLine();
 
-                if (loop == "")
-                {
-                    continue;
-                }
-                else if (loop == "1")
-                {
-                    break;
-                }
-                else
-                {
-                    Thread.Sleep(1000);
-                    Console.WriteLine("\nReally !");
-                    Thread.Sleep(1000);
-                    Console.Write("Am I a joke to you");
-                    Thread.Sleep(800);
-                    Console.Write(" :|");
-                    for (int i = 0; i < 99; i++)
-                    {
-                        Thread.Sleep(100);
-                        Console.Write(" :|");
-                    }
-                    Thread.Sleep(5000);
-                    continue;
-                }
+                //if (loop == "")
+                //{
+                //    continue;
+                //}
+                //else if (loop == "1")
+                //{
+                //    break;
+                //}
+                //else
+                //{
+                //    Thread.Sleep(1000);
+                //    Console.WriteLine("\nReally !");
+                //    Thread.Sleep(1000);
+                //    Console.Write("Am I a joke to you");
+                //    Thread.Sleep(800);
+                //    Console.Write(" :|");
+                //    for (int i = 0; i < 99; i++)
+                //    {
+                //        Thread.Sleep(100);
+                //        Console.Write(" :|");
+                //    }
+                //    Thread.Sleep(5000);
+                //    continue;
+                //}
             }
         }
 

@@ -34,8 +34,30 @@ namespace ConsoleApp1
             Console.WriteLine("ENJOY!!!!");
             Thread.Sleep(500);
 
-            Console.WriteLine("Choose website: \n");
-            SearchUtilities.w3Schools();
+            
+
+            while(true)
+            {
+                Console.WriteLine("Choose website: \n1. W3Schools");
+                string userInput = Console.ReadLine();
+                
+                if(userInput.Length > 1)
+                {
+                    continue;
+                }
+
+                switch (userInput)
+                {
+                    case "1":
+                        SearchUtilities.w3Schools();
+                        Console.Clear();
+                        break;
+                    default:
+                        Console.WriteLine("Think again :|");
+                        break;
+                }
+            }
+
 
             
         }

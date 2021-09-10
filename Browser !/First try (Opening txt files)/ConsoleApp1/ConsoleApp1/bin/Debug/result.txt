@@ -1,3 +1,0 @@
-E:\\others\\Website Downloads Main\\GeeksForGeeks\\geeks for geeks\\www.geeksforgeeks.org\file-handling-c-classes\indexf5f3.html
-E:\\others\\Website Downloads Main\\GeeksForGeeks\\geeks for geeks\\www.geeksforgeeks.org\readwrite-class-objects-fromto-file-c\indexf5f3.html
-E:\\others\\Website Downloads Main\\GeeksForGeeks\\geeks for geeks\\www.geeksforgeeks.org\stdistream_iterator-stdostream_iterator-c-stl\index.html
