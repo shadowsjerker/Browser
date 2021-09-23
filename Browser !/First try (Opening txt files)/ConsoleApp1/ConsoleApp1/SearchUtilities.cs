@@ -11,7 +11,7 @@ namespace ConsoleApp1
 {
     class SearchUtilities
     {
-        static public void w3Schools() 
+        static public void GeeksForGeeks() 
         {
             // Load subfolders directories
             StreamReader firstLoad = new StreamReader("enter_Address_Here.txt");
@@ -32,10 +32,12 @@ namespace ConsoleApp1
                 {
                     var b = Directory.EnumerateFiles(allFolders[j], "*.html", SearchOption.AllDirectories);
 
-                    double ass = allFolders.Length;
-                    double mean = (j / ass) * 100;
-                    int importantCast = Convert.ToInt32(mean);
-                    Console.WriteLine(String.Format("{0:0.##}", mean) + " %");
+                    //double ass = allFolders.Length;
+                    //double mean = (j / ass) * 100;
+                    //int importantCast = Convert.ToInt32(mean);
+                    //Console.WriteLine(String.Format("{0:0.##}", mean) + " %");
+                    float percent = ((float)j / allFolders.Length);
+                    Console.WriteLine(String.Format("{0:P}",percent));
                     Console.SetCursorPosition(0, Console.CursorTop - 1);
 
                     // Loading each file and doing the search

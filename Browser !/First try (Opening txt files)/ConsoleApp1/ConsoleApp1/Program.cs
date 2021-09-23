@@ -38,7 +38,8 @@ namespace ConsoleApp1
 
             while(true)
             {
-                Console.WriteLine("Choose website: \n1. W3Schools");
+                Console.WriteLine("Choose website: \n1. GeeksForGeeks");
+                Console.WriteLine("2. Other websites are in developing procces\n");
                 string userInput = Console.ReadLine();
                 
                 if(userInput.Length > 1)
@@ -49,7 +50,7 @@ namespace ConsoleApp1
                 switch (userInput)
                 {
                     case "1":
-                        SearchUtilities.w3Schools();
+                        SearchUtilities.GeeksForGeeks();
                         Console.Clear();
                         break;
                     default:
